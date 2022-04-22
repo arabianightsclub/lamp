@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Marketplace
-nav_order: 6
+nav_order: 5
 permalink: /lamp/Marketplace
 ---
 
