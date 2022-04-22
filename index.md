@@ -21,7 +21,11 @@ LAMP represent the start of a “new era” in filmmaking, distribution, and fun
 
 
 
+
+
 Note: LAMP is currently under Public Beta Phase, so contents in the Whitepaper could be changed in the future.
+
+
 
 
 ### Definition
