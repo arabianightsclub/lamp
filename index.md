@@ -6,7 +6,7 @@ permalink: /
 ---
 
 # Overview.
-{: .fs-9 }
+
 
 --- 
 ### The Arabian Nights Club is the world's first Drama IP NFTs - exclusive membership card offering copyright ownership on drama royalties on future future revenue streams. 
@@ -28,7 +28,9 @@ Note: LAMP is currently under Public Beta Phase, so contents in the Whitepaper c
 
 
 
+
 ### Definition
+
 
 Token: LAMP
 
