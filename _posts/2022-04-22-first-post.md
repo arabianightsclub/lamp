@@ -2,7 +2,7 @@
 layout: default
 title: "Overview"
 excerpt: "Overview - LAMP WHITEPAPER"
-categories:[Overview, Getting Started]
+categories:Overview
 toc: true
 toc_sticky: true
  
@@ -11,7 +11,7 @@ toc_sticky: true
 
 # Overview
 
-### The Arabian Nights Club is the world's first Drama IP NFTs - exclusive membership card offering copyright ownership on drama royalties on future future revenue streams. 
+### [The Arabian Nights Club is the world's first Drama IP NFTs - exclusive membership card offering copyright ownership on drama royalties on future future revenue streams.] 
 
 
 The allure of filmmaking brings with it visions of posh parties, hobnobbing with the rich and famous, award shows, and dressing up to the nines. There used to be a time when only powerful entertainment moguls could put their money into movie-making ventures, but not anymore. Indeed, there may be a way for you to get in on the action and invest in the potential success of movies, as we are in the middle of great transition in the entertainment business where traditional way of film funding and ownership are being unrooted due to the rapid rise of streamers and other digital platforms.
