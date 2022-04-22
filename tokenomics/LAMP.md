@@ -2,7 +2,7 @@
 layout: default
 title: LAMP
 parent: Tokenomics
-nav_order: 8
+nav_order: 6
 ---
 
 ## Supply and Earning
