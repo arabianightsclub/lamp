@@ -1,13 +1,11 @@
 ---
-title:  "[Jekyll] Overview"
+layout: default
+title: "Overview"
 excerpt: "Overview - LAMP WHITEPAPER"
-
-categories:
-  - Blog
-tags:
-  - [Blog, jekyll, Github, Git]
-
+categories:[overview]
 toc: true
 toc_sticky: true
  
-date: 2022-07-07
+---
+
+{{ content }}
