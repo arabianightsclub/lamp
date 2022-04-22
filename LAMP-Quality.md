@@ -17,6 +17,7 @@ There are four LAMP qualities. When LAMP is minted, the value of each Attribute 
 | Super        | 8                | 35               | 6             |
 | Epic         | 28           `   | 63               | 10            |
 | Legendary    | 50               | 100              | 12            |
+```
 
 Each level-up requires a fixed time to complete, which increases along with the amount of LAMP required according to the LAMP level. Upon level-up, fans will attain 4-12 additional Attribute points to assign according to their LAMP quality. 
 
@@ -32,7 +33,6 @@ Additional perks will be unlocked upon reaching certain level milestones:
 | Epic          | Unlock LAMP Lease Function   |         
 | Legendary     | Unlock LAMP earning          | 
 ```
-
 
 ## LAMP Customization (Under Development)
 
