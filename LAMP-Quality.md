@@ -9,7 +9,7 @@ nav_order: 4
 
 There are four LAMP qualities. When LAMP is minted, the value of each Attribute will be chosen within the min. and max. values according to LAMP quality. As such, even LAMPs of the same quality may have vastly different Attribute distributions. 
 
-<div class="code-example" markdown="1">
+<div class="code-example" markdown="2">
 
 | Quality      | Min. Attribute   | Max. Attribute   | Level Up      |
 |:-------------|:-----------------|:-----------------|:--------------|
@@ -24,8 +24,9 @@ Each level-up requires a fixed time to complete, which increases along with the 
 
 Additional perks will be unlocked upon reaching certain level milestones:
 
-<div class="code-example" markdown="1">
-
+<div>
+markdown
+  
 | Level         | Triggered Event              | 
 |:--------------|:-----------------------------|
 | Loyal         | Unlock VIP events            |  
