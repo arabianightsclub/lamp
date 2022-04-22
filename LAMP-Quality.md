@@ -5,11 +5,11 @@ parent: How it Works
 nav_order: 4
 ---
 
-# LAMP Quality
+## LAMP Quality
 
 There are four LAMP qualities. When LAMP is minted, the value of each Attribute will be chosen within the min. and max. values according to LAMP quality. As such, even LAMPs of the same quality may have vastly different Attribute distributions. 
 
-<div class="code-example" markdown="2">
+<div class="code-example" markdown="1">
 
 | Quality      | Min. Attribute      | Max. Attribute      |
 |:-------------|:--------------------|:--------------------|
@@ -19,12 +19,11 @@ There are four LAMP qualities. When LAMP is minted, the value of each Attribute 
 | Legendary    | 50                  | 100                 |
 
 
-# LAMP Level
+## LAMP Level
 
 Each level-up requires a fixed time to complete, which increases along with the amount of LAMP required according to the LAMP level. Upon level-up, fans will attain 4-12 additional Attribute points to assign according to their LAMP quality. 
 
 <div>
-```markdown
 
 | Quality      | Attribute Points/Level up    | 
 |:-------------|:-----------------------------|
@@ -38,7 +37,6 @@ Each level-up requires a fixed time to complete, which increases along with the 
 Additional perks will be unlocked upon reaching certain level milestones:
 
 <div>
-```markdown
   
 | Level 5      | Triggered Event              | 
 |:-------------|:-----------------------------|
