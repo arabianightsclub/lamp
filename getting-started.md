@@ -11,6 +11,7 @@ permalink: /lamp/Getting-Started
 To start, you need to become a community member of Arabian Nights Club. 
 
 
+
 ### 1. Connect your Wallet
 Click on the Wallet icon on the top right corner of the screen. Visit [Official Website](http://www.arabianightsclub.com) for more details.
 
