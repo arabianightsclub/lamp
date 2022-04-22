@@ -19,10 +19,12 @@ Transfer ETH to Wallet to buy LAMP NFT in the Marketplace and always keep some E
 Head over to the Marketplace and get your LAMP! Ensure you have enough ETH for the purchase. 
 
 ### 4. Follow us on Twitter.  
-New user(with LAMP NFT) needs one activation code to join the Club. Visit our [Twitter] (http://www.twitter.com/arabianightscl) and like, retweet, follow and ask us on a question in the comment for the chance to win one activation code. 
+New user(with LAMP NFT) needs one activation code to join the Club. Visit our [Twitter](http://www.twitter.com/arabianightscl) and like, retweet, follow and ask us on a question in the comment for the chance to win one activation code. 
 
 ### 5. Join Discord and sign-up for Club
-Only existing users will have three activation codes. After getting access to to our [discord] (http://www.discord.com/arabianightsclub), you will be able to sign up for the Club with your email address. You will receive a verification code that you need to key in to enter the Club. 
+Only existing users will have three activation codes. After getting access to to our [Discord](http://www.discord.com/arabianightsclub), you will be able to sign up for the Club with your email address. You will receive a verification code that you need to key in to enter the Club. 
+
+
 
 
 Congrats! You are all set. 
