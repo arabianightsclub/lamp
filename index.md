@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Overview
+permalink: /lamp
 nav_order: 1
 
 ---
