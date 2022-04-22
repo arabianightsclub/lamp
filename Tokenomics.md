@@ -5,7 +5,7 @@ nav_order: 7
 permalink: /lamp/Tokenomics
 ---
 
-## Tokenomics
+### Tokenomics
 
 ### Definition
 
