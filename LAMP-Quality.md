@@ -26,7 +26,6 @@ Each level-up requires a fixed time to complete, which increases along with the 
 Additional perks will be unlocked upon reaching certain level milestones:
 
 </div>
-
   
 | Level         | Triggered Event              | 
 |:--------------|:-----------------------------|
