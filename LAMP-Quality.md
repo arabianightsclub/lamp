@@ -23,7 +23,7 @@ There are four LAMP qualities. When LAMP is minted, the value of each Attribute 
 
 Each level-up requires a fixed time to complete, which increases along with the amount of LAMP required according to the LAMP level. Upon level-up, fans will attain 4-12 additional Attribute points to assign according to their LAMP quality. 
 
-<div>
+<div class="code-example" markdown="1">
 
 | Quality      | Attribute Points/Level up    | 
 |:-------------|:-----------------------------|
@@ -36,7 +36,7 @@ Each level-up requires a fixed time to complete, which increases along with the 
 
 Additional perks will be unlocked upon reaching certain level milestones:
 
-<div>
+<div class="code-example" markdown="1">
   
 | Level 5      | Triggered Event              | 
 |:-------------|:-----------------------------|
@@ -47,6 +47,6 @@ Additional perks will be unlocked upon reaching certain level milestones:
 | Level 30     | Unlock LAMP earning          |         
 ```
 
-# LAMP Customization (Under Development)
+## LAMP Customization (Under Development)
 
 At Level 30, you have the option of using LAMP to customize it, including but not limited to - name changing, adding a quote, adding extra Attribute points etc. More detail about customization will be released soon.
