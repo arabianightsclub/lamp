@@ -7,7 +7,7 @@ permalink: /lamp/Tokenomics
 
 ## Tokenomics
 
-# Definition
+### Definition
 
 Token: LAMP 
 
