@@ -11,40 +11,28 @@ There are four LAMP qualities. When LAMP is minted, the value of each Attribute 
 
 <div class="code-example" markdown="1">
 
-| Quality      | Min. Attribute      | Max. Attribute      |
-|:-------------|:--------------------|:--------------------|
-| Loyal        | 1                   | 10                  |
-| Super        | 8                   | 35                  |
-| Epic         | 28           `      | 63                  |
-| Legendary    | 50                  | 100                 |
-
-
-## LAMP Level
+| Quality      | Min. Attribute   | Max. Attribute   | Level Up      |
+|:-------------|:-----------------|:-----------------|:--------------|
+| Loyal        | 1                | 10               | 4             |
+| Super        | 8                | 35               | 6             |
+| Epic         | 28           `   | 63               | 10            |
+| Legendary    | 50               | 100              | 12            |
 
 Each level-up requires a fixed time to complete, which increases along with the amount of LAMP required according to the LAMP level. Upon level-up, fans will attain 4-12 additional Attribute points to assign according to their LAMP quality. 
 
-<div class="code-example" markdown="1">
-
-| Quality      | Attribute Points/Level up    | 
-|:-------------|:-----------------------------|
-| Loyal        | 4                            | 
-| Super        | 6                            | 
-| Epic         | 10           `               |         
-| Legendary    | 12                           | 
-```
 
 Additional perks will be unlocked upon reaching certain level milestones:
 
 <div class="code-example" markdown="1">
-  
-| Level 5      | Triggered Event              | 
-|:-------------|:-----------------------------|
-| Level 5      | Unlock VIP events            | 
-| Level 10     | Unlock Casting Power         | 
-| Level 15     | Unlock Writing Room          |         
-| Level 20     | Unlock LAMP Lease function   | 
-| Level 30     | Unlock LAMP earning          |         
+
+| Level         | Triggered Event              | 
+|:--------------|:-----------------------------|
+| Loyal         | Unlock VIP events            |  
+| Super         | Unlock Writing Room          |  
+| Epic          | Unlock LAMP Lease Function   |         
+| Legendary     | Unlock LAMP earning          | 
 ```
+
 
 ## LAMP Customization (Under Development)
 
