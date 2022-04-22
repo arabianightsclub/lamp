@@ -7,7 +7,9 @@ permalink: /lamp/Getting-Started
 
 # Getting Started
 
+
 To start, you need to become a community member of Arabian Nights Club. 
+
 
 ### 1. Connect your Wallet
 Click on the Wallet icon on the top right corner of the screen. Visit [Official Website](http://www.arabianightsclub.com) for more details.
@@ -23,6 +25,7 @@ New user(with LAMP NFT) needs one activation code to join the Club. Visit our [T
 
 ### 5. Join Discord and sign-up for Club
 Only existing users will have three activation codes. After getting access to to our [Discord](http://www.discord.com/arabianightsclub), you will be able to sign up for the Club with your email address. You will receive a verification code that you need to key in to enter the Club. 
+
 
 
 
