@@ -33,7 +33,6 @@ Each level-up requires a fixed time to complete, which increases along with the 
 | Legendary    | 12                           | 
 ```
 
-
 Additional perks will be unlocked upon reaching certain level milestones:
 
 <div class="code-example" markdown="1">
